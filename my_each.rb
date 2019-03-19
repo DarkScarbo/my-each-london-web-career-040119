@@ -1,3 +1,5 @@
-def my_each()
-  
+def my_each(words)
+  i=0
+  while i > words.length
+end
 end
